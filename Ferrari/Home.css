@@ -1,0 +1,879 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 108px;
+} .u-section-2 {
+  background-image: none;
+  min-height: 599px;
+}
+
+.u-section-2 .u-slider-1 {
+  min-height: 690px;
+  height: auto;
+  margin: -91px 0 0;
+}
+
+.u-section-2 .u-carousel-indicators-1 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  top: auto;
+  bottom: 11px;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/ferrari-sf90-stradale.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 80px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3rem;
+  background-image: none;
+  font-family: Alef;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/slide02.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 3rem;
+  background-image: none;
+  font-family: Alef;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-image-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/ferrari-portofino-m.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px 50px;
+}
+
+.u-section-2 .u-text-3 {
+  font-size: 3rem;
+  background-image: none;
+  font-family: Alef;
+  margin: 229px auto 0;
+}
+
+.u-section-2 .u-carousel-control-1 {
+  width: 71px;
+  height: 71px;
+  padding: 0;
+}
+
+.u-section-2 .u-carousel-control-2 {
+  width: 71px;
+  height: 71px;
+  left: auto;
+  position: absolute;
+  right: 0;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-slider-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+} .u-section-3 {
+  background-image: linear-gradient(#da2e3a, black);
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 630px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  background-image: none;
+  margin-top: -38px;
+  margin-bottom: 60px;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 304px;
+}
+
+.u-section-3 .u-image-1 {
+  background-image: url("images/ferrari-portofino-m-16092020230242367.jpeg");
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 20px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 304px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: Alef;
+  font-weight: 700;
+  font-size: 2.25rem;
+  margin: 30px auto 0;
+}
+
+.u-section-3 .u-layout-cell-3 {
+  min-height: 304px;
+}
+
+.u-section-3 .u-image-2 {
+  background-image: url("images/8e2296e18d884ae01f28176b740f1b4b.jpg");
+  background-position: 50% 58.28%;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 20px;
+}
+
+.u-section-3 .u-layout-cell-4 {
+  min-height: 304px;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-3 .u-icon-2 {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-text-2 {
+  font-family: Alef;
+  font-weight: 700;
+  font-size: 2.25rem;
+  margin: 30px auto 0;
+}
+
+.u-section-3 .u-layout-cell-5 {
+  min-height: 304px;
+}
+
+.u-section-3 .u-image-3 {
+  background-image: url("images/Ferrari-Portofino5.jpg");
+}
+
+.u-section-3 .u-container-layout-5 {
+  padding: 20px;
+}
+
+.u-section-3 .u-layout-cell-6 {
+  min-height: 304px;
+}
+
+.u-section-3 .u-container-layout-6 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  padding: 30px 0;
+}
+
+.u-section-3 .u-icon-3 {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-text-3 {
+  font-family: Alef;
+  font-size: 2.25rem;
+  font-weight: 700;
+  background-image: none;
+  margin: 30px auto 0;
+}
+
+.u-section-3 .u-shape-1 {
+  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1);
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-shape-2 {
+  box-shadow: 0px 2px 8px 0px rgba(128,128,128,1);
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-shape-3 {
+  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1);
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-shape-4 {
+  box-shadow: 2px 0px 8px 0px rgba(128,128,128,1);
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-shape-5 {
+  box-shadow: 2px -2px 8px 0px rgba(128,128,128,1);
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-shape-6 {
+  box-shadow: 0px -2px 8px 0px rgba(128,128,128,1);
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 800px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 251px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 251px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 251px;
+    background-position: 50% 58.28%;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 251px;
+  }
+
+  .u-section-3 .u-layout-cell-5 {
+    min-height: 251px;
+  }
+
+  .u-section-3 .u-layout-cell-6 {
+    min-height: 251px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 682px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 192px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 192px;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-5 {
+    min-height: 192px;
+  }
+
+  .u-section-3 .u-layout-cell-6 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 2803px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 432px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 432px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    order: 1;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-5 {
+    order: 0;
+    min-height: 432px;
+  }
+
+  .u-section-3 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-6 {
+    order: 3;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1966px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 272px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 272px;
+  }
+
+  .u-section-3 .u-layout-cell-5 {
+    min-height: 272px;
+  }
+} .u-section-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/Ferrari-1280x450.jpg");
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-4 .u-layout-cell-1 {
+  min-height: 615px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-4 .u-text-1 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  margin: 124px 0 0;
+}
+
+.u-section-4 .u-group-1 {
+  margin-top: 20px;
+  margin-bottom: 0;
+  min-height: 190px;
+  height: auto;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.u-section-4 .u-text-2 {
+  margin-top: 10px;
+  font-size: 1.25rem;
+  font-family: Alef;
+}
+
+.u-section-4 .u-text-3 {
+  font-family: Alef;
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 609px;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 470px;
+  height: 470px;
+  background-image: url("images/qfl_fto_21887.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+@media (max-width: 1199px) {
+   .u-section-4 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-4 .u-sheet-1 {
+    min-height: 393px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 507px;
+  }
+
+  .u-section-4 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 502px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 410px;
+    height: 410px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 276px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-group-1 {
+    margin-top: 178px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 385px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 300px;
+    height: 300px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 569px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-group-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 356px;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 355px;
+  }
+
+  .u-section-4 .u-group-1 {
+    margin-top: 178px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 224px;
+  }
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 586px;
+}
+
+.u-section-5 .u-text-1 {
+  font-size: 3.75rem;
+  font-weight: 700;
+  background-image: none;
+  text-transform: none;
+  width: 476px;
+  margin: 55px auto 0;
+}
+
+.u-section-5 .u-video-1 {
+  height: 372px;
+  width: 662px;
+  margin: 23px auto 60px;
+}
+
+.u-section-5 .embed-responsive-1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 517px;
+  }
+
+  .u-section-5 .u-video-1 {
+    height: 303px;
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 405px;
+  }
+
+  .u-section-5 .u-text-1 {
+    font-size: 3rem;
+    width: 340px;
+  }
+
+  .u-section-5 .u-video-1 {
+    height: 191px;
+    width: 340px;
+  }
+} .u-section-6 {
+  background-image: none;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 462px;
+}
+
+.u-section-6 .u-layout-wrap-1 {
+  margin: 29px auto 29px 0;
+}
+
+.u-section-6 .u-layout-cell-1 {
+  min-height: 403px;
+}
+
+.u-section-6 .u-image-1 {
+  background-image: url("images/614716b841d59135aa6fa25961f3c0f763597cdbd6ae8e8b422d964da13fdd03a5ea3ebf693cc74bc5a37bb4fdbdbc7755e705380205513bc37e88_1280.jpg");
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 20px;
+}
+
+.u-section-6 .u-layout-cell-2 {
+  min-height: 403px;
+}
+
+.u-section-6 .u-container-layout-2 {
+  padding: 20px;
+}
+
+.u-section-6 .u-text-1 {
+  font-size: 1.25rem;
+  font-family: Alef;
+  margin: 0 10px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 391px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 307px;
+    background-position: 50% 50%;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 382px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 313px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 254px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 445px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 286px;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 339px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 180px;
+  }
+
+  .u-section-6 .u-text-1 {
+    width: auto;
+  }
+} .u-section-7 {
+  background-image: none;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 545px;
+}
+
+.u-section-7 .u-layout-wrap-1 {
+  margin-top: 67px;
+  margin-bottom: 60px;
+}
+
+.u-section-7 .u-layout-cell-1 {
+  min-height: 388px;
+}
+
+.u-section-7 .u-container-layout-1 {
+  padding: 0 60px 0 20px;
+}
+
+.u-section-7 .u-text-1 {
+  margin-bottom: 0;
+  font-weight: 700;
+  font-size: 2.25rem;
+  margin-top: 20px;
+}
+
+.u-section-7 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 27px 0 0;
+}
+
+.u-section-7 .u-social-icons-1 {
+  white-space: nowrap;
+  height: 51px;
+  min-height: 16px;
+  width: 172px;
+  min-width: 68px;
+  margin: 27px auto 0 0;
+}
+
+.u-section-7 .u-icon-1 {
+  height: 100%;
+}
+
+.u-section-7 .u-icon-2 {
+  height: 100%;
+}
+
+.u-section-7 .u-icon-3 {
+  height: 100%;
+}
+
+.u-section-7 .u-layout-cell-2 {
+  min-height: 388px;
+}
+
+.u-section-7 .u-container-layout-2 {
+  padding: 20px;
+}
+
+.u-section-7 .u-form-1 {
+  height: 312px;
+  width: 530px;
+  margin: 0;
+}
+
+.u-section-7 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: linear-gradient(150deg, #da2e3a, black);
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 461px;
+  }
+
+  .u-section-7 .u-layout-cell-1 {
+    min-height: 320px;
+  }
+
+  .u-section-7 .u-text-1 {
+    position: relative;
+  }
+
+  .u-section-7 .u-text-2 {
+    position: relative;
+  }
+
+  .u-section-7 .u-layout-cell-2 {
+    min-height: 320px;
+  }
+
+  .u-section-7 .u-form-1 {
+    width: 430px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 165px;
+  }
+
+  .u-section-7 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-7 .u-container-layout-1 {
+    padding-right: 30px;
+  }
+
+  .u-section-7 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-7 .u-form-1 {
+    width: 320px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 265px;
+  }
+
+  .u-section-7 .u-container-layout-1 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .u-section-7 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
